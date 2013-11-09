@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="fonte.svg">
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Polkadots-largewhite"
+       id="pattern5408"
+       patternTransform="matrix(7.6010898,-0.54535949,0.54535949,7.6010898,0,0)" />
+    <pattern
+       inkscape:stockid="Polka dots, large white"
+       id="Polkadots-largewhite"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="10"
+       width="10"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <circle
+         id="circle5073"
+         r="0.45"
+         cy="0.810"
+         cx="2.567"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5075"
+         r="0.45"
+         cy="2.33"
+         cx="3.048"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5077"
+         r="0.45"
+         cy="2.415"
+         cx="4.418"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5079"
+         r="0.45"
+         cy="3.029"
+         cx="1.844"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5081"
+         r="0.45"
+         cy="1.363"
+         cx="6.08"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5083"
+         r="0.45"
+         cy="4.413"
+         cx="5.819"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5085"
+         r="0.45"
+         cy="4.048"
+         cx="4.305"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5087"
+         r="0.45"
+         cy="3.045"
+         cx="5.541"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5089"
+         r="0.45"
+         cy="5.527"
+         cx="4.785"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5091"
+         r="0.45"
+         cy="5.184"
+         cx="2.667"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5093"
+         r="0.45"
+         cy="1.448"
+         cx="7.965"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5095"
+         r="0.45"
+         cy="5.049"
+         cx="7.047"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5097"
+         r="0.45"
+         cy="0.895"
+         cx="4.340"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5099"
+         r="0.45"
+         cy="0.340"
+         cx="7.125"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5101"
+         r="0.45"
+         cy="1.049"
+         cx="9.553"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5103"
+         r="0.45"
+         cy="2.689"
+         cx="7.006"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5105"
+         r="0.45"
+         cy="2.689"
+         cx="8.909"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5107"
+         r="0.45"
+         cy="4.407"
+         cx="9.315"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5109"
+         r="0.45"
+         cy="3.870"
+         cx="7.820"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5111"
+         r="0.45"
+         cy="5.948"
+         cx="8.270"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5113"
+         r="0.45"
+         cy="7.428"
+         cx="7.973"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5115"
+         r="0.45"
+         cy="8.072"
+         cx="9.342"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5117"
+         r="0.45"
+         cy="9.315"
+         cx="8.206"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5119"
+         r="0.45"
+         cy="9.475"
+         cx="9.682"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5121"
+         r="0.45"
+         cy="6.186"
+         cx="9.688"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5123"
+         r="0.45"
+         cy="6.296"
+         cx="3.379"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5125"
+         r="0.45"
+         cy="8.204"
+         cx="2.871"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5127"
+         r="0.45"
+         cy="8.719"
+         cx="4.59"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5129"
+         r="0.45"
+         cy="9.671"
+         cx="3.181"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5131"
+         r="0.45"
+         cy="7.315"
+         cx="5.734"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5133"
+         r="0.45"
+         cy="6.513"
+         cx="6.707"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5135"
+         r="0.45"
+         cy="9.670"
+         cx="5.730"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5137"
+         r="0.45"
+         cy="8.373"
+         cx="6.535"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5139"
+         r="0.45"
+         cy="7.154"
+         cx="4.37"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5141"
+         r="0.45"
+         cy="7.25"
+         cx="0.622"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5143"
+         r="0.45"
+         cy="5.679"
+         cx="0.831"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5145"
+         r="0.45"
+         cy="8.519"
+         cx="1.257"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5147"
+         r="0.45"
+         cy="6.877"
+         cx="1.989"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5149"
+         r="0.45"
+         cy="3.181"
+         cx="0.374"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5151"
+         r="0.45"
+         cy="1.664"
+         cx="1.166"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5153"
+         r="0.45"
+         cy="0.093"
+         cx="1.151"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5155"
+         r="0.45"
+         cy="10.093"
+         cx="1.151"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5157"
+         r="0.45"
+         cy="4.451"
+         cx="1.302"
+         style="fill:white;stroke:none" />
+      <circle
+         id="circle5159"
+         r="0.45"
+         cy="3.763"
+         cx="3.047"
+         style="fill:white;stroke:none" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern5255"
+       patternTransform="matrix(-3.5244,3.8056899,-13.089963,-12.122444,-52.142857,70)" />
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect4534"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-150.91863"
+     inkscape:cy="915.28703"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="1665"
+     inkscape:window-y="80"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ce004e;fill-opacity:1;stroke:none"
+       id="rect2985"
+       width="242.05499"
+       height="242.05499"
+       x="4.5181079"
+       y="4.9869399"
+       inkscape:export-filename="/var/www/nicenight/imgs/0.png"
+       inkscape:export-xdpi="111.54"
+       inkscape:export-ydpi="111.54" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'48ways';-inkscape-font-specification:'48ways'"
+       x="-244.28571"
+       y="145.21931"
+       id="text3755"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3757"
+         x="-244.28571"
+         y="145.21931" /></text>
+    <rect
+       y="4.9869399"
+       x="250.03104"
+       height="242.05499"
+       width="242.05499"
+       id="rect3799"
+       style="fill:#ce004e;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/var/www/nicenight/imgs/1.png"
+       inkscape:export-xdpi="111.54"
+       inkscape:export-ydpi="111.54" />
+    <rect
+       style="fill:#ce004e;fill-opacity:1;stroke:none"
+       id="rect3801"
+       width="242.05499"
+       height="242.05499"
+       x="496.69659"
+       y="4.9869399"
+       inkscape:export-filename="/var/www/nicenight/imgs/2.png"
+       inkscape:export-xdpi="111"
+       inkscape:export-ydpi="111" />
+    <rect
+       y="248.78786"
+       x="4.5181079"
+       height="242.05499"
+       width="242.05499"
+       id="rect3803"
+       style="fill:#ce004e;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/var/www/nicenight/imgs/3.png"
+       inkscape:export-xdpi="111"
+       inkscape:export-ydpi="111" />
+    <rect
+       style="fill:#ce004e;fill-opacity:1;stroke:none"
+       id="rect3805"
+       width="242.05499"
+       height="242.05499"
+       x="250.03104"
+       y="248.78786"
+       inkscape:export-filename="/var/www/nicenight/imgs/4.png"
+       inkscape:export-xdpi="111"
+       inkscape:export-ydpi="111" />
+    <rect
+       y="248.78786"
+       x="496.69659"
+       height="242.05499"
+       width="242.05499"
+       id="rect3807"
+       style="fill:#ce004e;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/var/www/nicenight/imgs/5.png"
+       inkscape:export-xdpi="111"
+       inkscape:export-ydpi="111" />
+    <rect
+       style="fill:#ce004e;fill-opacity:1;stroke:none"
+       id="rect3809"
+       width="242.05499"
+       height="242.05499"
+       x="4.5181079"
+       y="495.45343"
+       inkscape:export-filename="/var/www/nicenight/imgs/6.png"
+       inkscape:export-xdpi="111"
+       inkscape:export-ydpi="111" />
+    <rect
+       y="495.45343"
+       x="250.03104"
+       height="242.05499"
+       width="242.05499"
+       id="rect3811"
+       style="fill:#ce004e;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/var/www/nicenight/imgs/7.png"
+       inkscape:export-xdpi="111"
+       inkscape:export-ydpi="111" />
+    <rect
+       style="fill:#ce004e;fill-opacity:1;stroke:none"
+       id="rect3813"
+       width="242.05499"
+       height="242.05499"
+       x="496.69659"
+       y="495.45343"
+       inkscape:export-filename="/var/www/nicenight/imgs/8.png"
+       inkscape:export-xdpi="111"
+       inkscape:export-ydpi="111" />
+    <rect
+       y="739.81366"
+       x="4.5181079"
+       height="242.05499"
+       width="242.05499"
+       id="rect3815"
+       style="fill:#ce004e;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/var/www/nicenight/imgs/9.png"
+       inkscape:export-xdpi="111"
+       inkscape:export-ydpi="111" />
+    <rect
+       style="fill:#ce004e;fill-opacity:1;stroke:none"
+       id="rect3817"
+       width="242.05499"
+       height="242.05499"
+       x="250.03104"
+       y="739.81366"
+       inkscape:export-filename="/var/www/nicenight/imgs/10.png"
+       inkscape:export-xdpi="111"
+       inkscape:export-ydpi="111" />
+    <rect
+       y="739.81366"
+       x="496.69659"
+       height="242.05499"
+       width="242.05499"
+       id="rect3819"
+       style="fill:#ce004e;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/var/www/nicenight/imgs/11.png"
+       inkscape:export-xdpi="111"
+       inkscape:export-ydpi="111" />
+    <text
+       xml:space="preserve"
+       style="font-size:232.27038574px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'48ways';-inkscape-font-specification:'48ways'"
+       x="-1.5396773"
+       y="180.70517"
+       id="text3821"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3823"
+         x="-1.5396773"
+         y="180.70517">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:245.54704285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'48ways';-inkscape-font-specification:'48ways'"
+       x="194.8687"
+       y="241.18413"
+       id="text3825"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3827"
+         x="194.8687"
+         y="241.18413">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:219.08807373px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'48ways';-inkscape-font-specification:'48ways'"
+       x="506.35947"
+       y="201.05406"
+       id="text3829"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3831"
+         x="506.35947"
+         y="201.05406">c</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:208.48838806px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'48ways';-inkscape-font-specification:'48ways'"
+       x="62.904816"
+       y="465.9075"
+       id="text3833"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3835"
+         x="62.904816"
+         y="465.9075">d</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:247.30569458px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'48ways';-inkscape-font-specification:'48ways'"
+       x="252.30876"
+       y="461.3526"
+       id="text3837"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3839"
+         x="252.30876"
+         y="461.3526">e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:201.52380371px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'48ways';-inkscape-font-specification:'48ways'"
+       x="499.86157"
+       y="408.26398"
+       id="text3841"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3843"
+         x="499.86157"
+         y="408.26398">f</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:187.43757629px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'48ways';-inkscape-font-specification:'48ways'"
+       x="18.38694"
+       y="652.60297"
+       id="text3845"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3847"
+         x="18.38694"
+         y="652.60297">g</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:196.34843445px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'48ways';-inkscape-font-specification:'48ways'"
+       x="255.93114"
+       y="642.10706"
+       id="text3849"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3851"
+         x="255.93114"
+         y="642.10706">h</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:212.65020752px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'48ways';-inkscape-font-specification:'48ways'"
+       x="498.26379"
+       y="656.17188"
+       id="text3853"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3855"
+         x="498.26379"
+         y="656.17188">i</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:178.34376526px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'48ways';-inkscape-font-specification:'48ways'"
+       x="7.7833371"
+       y="901.92188"
+       id="text3857"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3859"
+         x="7.7833371"
+         y="901.92188">j</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:248.48320007px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'48ways';-inkscape-font-specification:'48ways'"
+       x="278.00815"
+       y="920.24817"
+       id="text3861"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3863"
+         x="278.00815"
+         y="920.24817">k</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:195.74143982px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'48ways';-inkscape-font-specification:'48ways'"
+       x="546.401"
+       y="947.84833"
+       id="text3865"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3867"
+         x="546.401"
+         y="947.84833">l</tspan></text>
+    <rect
+       inkscape:export-ydpi="111"
+       inkscape:export-xdpi="111"
+       inkscape:export-filename="/var/www/nicenight/imgs/logo.png"
+       style="fill:#ce004e;fill-opacity:1;stroke:none"
+       id="rect3936"
+       width="242.05499"
+       height="242.05499"
+       x="-278.32455"
+       y="16.452772" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3950"
+       y="235.74614"
+       x="-293.02734"
+       style="font-size:275.94433594px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.46666667;fill:url(#pattern5255);fill-opacity:1;stroke:none;font-family:'48ways';-inkscape-font-specification:'48ways'"
+       xml:space="preserve"><tspan
+         y="235.74614"
+         x="-293.02734"
+         id="tspan3952"
+         sodipodi:role="line"
+         style="fill:url(#pattern5255)">c</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3944"
+       y="112.5202"
+       x="-154.64445"
+       style="font-size:68.41527557px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"
+       inkscape:export-filename="/var/www/nicenight/imgs/logo.png"
+       inkscape:export-xdpi="111"
+       inkscape:export-ydpi="111"><tspan
+         y="112.5202"
+         x="-154.64445"
+         id="tspan3946"
+         sodipodi:role="line">Nice</tspan><tspan
+         id="tspan3948"
+         y="198.03929"
+         x="-154.64445"
+         sodipodi:role="line">Night</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:68.41527557px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-158.64445"
+       y="108.5202"
+       id="text3938"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/var/www/nicenight/imgs/logo.png"
+       inkscape:export-xdpi="111"
+       inkscape:export-ydpi="111"><tspan
+         sodipodi:role="line"
+         id="tspan3940"
+         x="-158.64445"
+         y="108.5202">Nice</tspan><tspan
+         sodipodi:role="line"
+         x="-158.64445"
+         y="194.03929"
+         id="tspan3942">Night</tspan></text>
+  </g>
+</svg>
